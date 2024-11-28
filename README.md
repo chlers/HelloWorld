@@ -1,3 +1,3 @@
 # HelloWorld
 
-Initial repo
+Initial repository
